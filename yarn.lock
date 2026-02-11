@@ -1921,10 +1921,10 @@ intor-translator@1.4.13:
   dependencies:
     rura "^1.0.8"
 
-intor@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/intor/-/intor-2.4.0.tgz#a31584aa69db5f7eb6edac1592d9f13197a7c514"
-  integrity sha512-INDLh0VA++IiDmNWAVpCB9cDK/IiSfdi4j0hLjEGX6u3he2JF54NTaDorILvn18YNSlFEXajLQvEOgmuIicGVw==
+intor@^2.4.7:
+  version "2.4.7"
+  resolved "https://registry.yarnpkg.com/intor/-/intor-2.4.7.tgz#d3426b82e27af2c9f442f2f6df87298f6e15647d"
+  integrity sha512-V5hDBPRWwTk9kEf+z7DIqZXBTgNq2W7R/oYNlBIC/FTYfpOyBU9YnLaE9WjnrRFNSdlDLYSIE9Cear57ayT3FA==
   dependencies:
     intor-translator "1.4.13"
     logry "2.1.6"
